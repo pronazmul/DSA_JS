@@ -14,8 +14,8 @@
 
 - `Searching Algorithms`
 
-  - বাইনারি সার্চ (Binary search)
   - লিনিয়ার সার্চ (Linear search)
+  - বাইনারি সার্চ (Binary search)
 
 - `Sorting Algorithms`
   - বাবল সর্ট (Bubble sort)

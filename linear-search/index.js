@@ -5,11 +5,11 @@
 @COMPLEXITY: O(n)
 */
 
-function linearSearch(array, value) {
-  //Step 1
+function linearSearch(array, index) {
   for (let i = 0; i < array.length; i++) {
-    if (array[i] === value) return i
+    if (array[i] === index) return i
   }
   return -1
 }
+
 let index = linearSearch([3, 4, 5, 1, 6, 7, 9, 32, 554, 66], 9)
