@@ -33,5 +33,5 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/pronazmul
 [thumbnail-shield]: https://i.ibb.co/d6hxnvd/Screenshot-50.png
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-mnazmul.dev%gmail.com-lightgray
 [mail-url]: mailto:mnazmul.dev@gmail.com
