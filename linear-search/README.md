@@ -2,7 +2,7 @@
 
 <br />
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/58470993/196596880-6b18d835-0401-423b-ac92-f60ceefc6f33.png" alt="Logo" width="200" height="200" />
+    <img src="https://user-images.githubusercontent.com/58470993/196596880-6b18d835-0401-423b-ac92-f60ceefc6f33.png" alt="Logo" width="500" height="200" />
 </p>
 
 ## Find Me
