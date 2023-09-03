@@ -3,6 +3,7 @@ function bubbleSort(arr) {
   // Get the length of the input array.
   let n = arr.length
 
+  let isSwap = false
   // Outer loop: Iterate through the entire array.
   for (let i = 0; i < n - 1; i++) {
     // Inner loop: Iterate through the remaining unsorted elements.
@@ -13,8 +14,10 @@ function bubbleSort(arr) {
         let temp = arr[j]
         arr[j] = arr[j + 1]
         arr[j + 1] = temp
+        isSwap = true
       }
     }
+    if (!isSwap) break
   }
 }
 
